@@ -1,0 +1,10 @@
+D:\C#代码\Fun_SoundLean\bin\Debug\Fun_SoundLean.exe.config
+D:\C#代码\Fun_SoundLean\bin\Debug\Fun_SoundLean.exe
+D:\C#代码\Fun_SoundLean\bin\Debug\Fun_SoundLean.pdb
+D:\C#代码\Fun_SoundLean\obj\Debug\Fun_SoundLean.csprojAssemblyReference.cache
+D:\C#代码\Fun_SoundLean\obj\Debug\Fun_SoundLean.Form1.resources
+D:\C#代码\Fun_SoundLean\obj\Debug\Fun_SoundLean.Properties.Resources.resources
+D:\C#代码\Fun_SoundLean\obj\Debug\Fun_SoundLean.csproj.GenerateResource.cache
+D:\C#代码\Fun_SoundLean\obj\Debug\Fun_SoundLean.csproj.CoreCompileInputs.cache
+D:\C#代码\Fun_SoundLean\obj\Debug\Fun_SoundLean.exe
+D:\C#代码\Fun_SoundLean\obj\Debug\Fun_SoundLean.pdb
